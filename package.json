@@ -1,5 +1,5 @@
 {
-  "name": "cds-tokens",
+  "name": "comprehensive-design-tokens",
   "version": "1.0.0",
   "description": "Comprehensive design tokens with 3-layer architecture.",
   "main": "tokens/tokens.json",

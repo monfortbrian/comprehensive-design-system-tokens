@@ -12,13 +12,13 @@ Comprehensive color system, spacing, and typography. Use in any framework.
 ## Install
 
 ```bash
-npm install cds-tokens
+npm install comprehensive-design-tokens
 ```
 
 ## Use
 
 ```js
-import tokens from 'cds-tokens';
+import tokens from 'comprehensive-design-tokens';
 
 // Access any token
 tokens.core.color.indigo[500]; // "#6366f1"
@@ -104,7 +104,7 @@ tokens/
 
 ```js
 // tailwind.config.js
-const tokens = require('cds-tokens');
+const tokens = require('comprehensive-design-tokens');
 
 module.exports = {
   theme: {
@@ -127,7 +127,7 @@ module.exports = {
 ### React
 
 ```js
-import tokens from 'cds-tokens';
+import tokens from 'comprehensive-design-tokens';
 
 const Button = styled.button`
   background: ${tokens.alias.primary};
