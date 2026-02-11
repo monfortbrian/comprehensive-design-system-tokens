@@ -1,6 +1,6 @@
 # CDS Tokens
 
-> **Professional design tokens. 3-layer architecture. Free forever.**
+> **Professional design tokens. 3-layer architecture.**
 
 Comprehensive color system, spacing, and typography. Use in any framework.
 
@@ -168,7 +168,7 @@ button.color = tokens.core.color.indigo[500];
 
 **Everything cascades automatically.**
 
-for figma design system:figma.com/community/file/1599790277190309669/comprehensive-design-system
+To download figma design system: https://www.figma.com/community/file/1599790277190309669/comprehensive-design-system
 
 ---
 
