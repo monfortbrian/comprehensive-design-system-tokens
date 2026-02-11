@@ -1,0 +1,36 @@
+{
+  "name": "cds-tokens",
+  "version": "1.0.0",
+  "description": "Comprehensive design tokens with 3-layer architecture.",
+  "main": "tokens/tokens.json",
+  "files": [
+    "tokens/"
+  ],
+  "exports": {
+    ".": "./tokens/tokens.json",
+    "./core": "./tokens/core.json",
+    "./alias": "./tokens/alias.json",
+    "./light": "./tokens/light.json",
+    "./dark": "./tokens/dark.json"
+  },
+  "keywords": [
+    "design-tokens",
+    "design-system",
+    "tokens",
+    "tailwind",
+    "shadcn-ui",
+    "css-variables",
+    "theme",
+    "colors",
+    "spacing"
+  ],
+  "author": "Monfort Brian N.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/monfortbrian/comprehensive-design-system-tokens.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
