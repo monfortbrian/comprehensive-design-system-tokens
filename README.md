@@ -4,7 +4,8 @@
 
 Comprehensive color system, spacing, and typography. Use in any framework.
 
-[![npm](https://img.shields.io/npm/v/cds-tokens.svg)](https://www.npmjs.com/package/cds-tokens)
+![n8n-nodes-openmrs](https://img.shields.io/npm/v/n8)
+![npm](https://img.shields.io/npm/dt/comprehensive-design-tokens)
 [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ---
